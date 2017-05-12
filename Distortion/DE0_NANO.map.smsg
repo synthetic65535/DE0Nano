@@ -1,0 +1,2 @@
+Info (10281): Verilog HDL Declaration information at DE0_NANO.v(226): object "u1" differs only in case from object "U1" in the same scope
+Warning (10268): Verilog HDL information at UART.v(59): always construct contains both blocking and non-blocking assignments

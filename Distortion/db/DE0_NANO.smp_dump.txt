@@ -1,0 +1,6 @@
+
+State Machine - |DE0_NANO|rxc_time
+Name rxc_time.00000000 rxc_time.00000010 rxc_time.00000001 
+rxc_time.00000010 0 0 0 
+rxc_time.00000001 0 1 1 
+rxc_time.00000000 1 1 0 
